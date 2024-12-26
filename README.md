@@ -29,3 +29,4 @@ ggplot(dfiris, aes(x = variable, y = log(value), group = id, colour=Species)) +
   theme_bw(16)
 ```
 
+![](https://github.com/abikoushi/ggjitterbump/blob/main/example/iris_bump.png)
