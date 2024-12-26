@@ -1,0 +1,11 @@
+Package: ggjitterbump
+Type: Package
+Title: Bump Plot with Jitter
+Version: 0.1.0
+Author: Ko ABE
+Description: Create bump plot with jitter
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: ggplot2
+LinkingTo: dplyr
